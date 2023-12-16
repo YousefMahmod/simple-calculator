@@ -11,7 +11,7 @@ It accepts only integers and performs calculation including: +, -, /,\*, () and 
 - Can enter operations using keyboard
 
 ## Tools
-- React JS
+- React JS with typescript
 - Chakra UI for styling
 - react-icons
 - Zustand for state management
