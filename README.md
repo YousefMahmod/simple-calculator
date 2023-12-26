@@ -1,24 +1,32 @@
 # simple-calculator
 It accepts only integers and performs calculation including: +, -, /,\*, () and follow priority of operations.
 
-## How To Install
-- clone project https://github.com/YousefMahmod/simple-calculator.git
-- Run npm i
-- Run npm run dev
-## Fetures
+## Table of contents
+- [Features](#features)
+- [Getting started](#getting-started)
+- [Tools](#tools)
+- [File structure](#file-structure)
+
+## Features
 - Performs calculation including: +, -, /,\*, () and follow priority of operations
 - Show history of operations and can reuse them
 - Can enter operations using keyboard
-
+  
+## Getting started
+### Run from local server
+1) clone project ([https://github.com/YousefMahmod/game-hub.git](https://github.com/YousefMahmod/simple-calculator.git))
+2) npm i
+3) npm run dev
+### Demo
+- [Demo](https://simple-calculator-korgfw9gz-youssefs-projects-93a01e1a.vercel.app/)
+- 
 ## Tools
 - React JS with typescript
 - Chakra UI for styling
 - react-icons
 - Zustand for state management
 
-## Link Demo
-https://simple-calculator-korgfw9gz-youssefs-projects-93a01e1a.vercel.app/
-## Structure
+## File structure
 ``` bash
 ├───public
 │       vite.svg
