@@ -18,8 +18,8 @@ It accepts only integers and performs calculation including: +, -, /,\*, () and 
 2) npm i
 3) npm run dev
 ### Demo
-- [Demo](https://simple-calculator-korgfw9gz-youssefs-projects-93a01e1a.vercel.app/)
-- 
+- [Demo](https://simple-calculator-drab.vercel.app/)
+
 ## Tools
 - React JS with typescript
 - Chakra UI for styling
